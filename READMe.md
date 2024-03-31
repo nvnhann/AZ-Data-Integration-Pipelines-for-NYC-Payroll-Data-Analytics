@@ -1,6 +1,7 @@
 # Data Integration Pipelines for NYC Payroll Data Analytics
 
 **Author:** Nhan V. Nguyen
+
 **Course:** Data Engineering with Microsoft Azure
 
 ## Project Introduction
